@@ -1,5 +1,4 @@
 # CHATX
 Beautiful public chat application
 
-
-![IMG-20240902-WA0019](https://github.com/user-attachments/assets/80bbf400-db11-4fbf-8fa3-457760deff03)
+![Doc2](https://github.com/user-attachments/assets/f8a27ed9-9d15-4fe3-940c-be1e603ecda0)
